@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ce9a06ac4ede6f84ab1865b7d32f204c
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _VHSTex: {fileID: 2800000, guid: 9c42c7ff29a326d4fa5a5335f61367cc, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
